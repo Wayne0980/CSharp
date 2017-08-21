@@ -6,5 +6,5 @@
 5-ControllPages       朋友問怎麼透過按鈕來開新分頁的範例</br>
 6-mysqltest           透過存取mysql</br>
 7-ChartTest           折線圖練習程式，可以存圖檔，TXT檔</br>
-8-Thread			  Thread & Delegate Test
+8-Thread			  Thread & Delegate Test</br>
 ![image](https://github.com/Wayne0980/CSharp/blob/master/8-thread.png)</br>
