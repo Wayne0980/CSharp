@@ -8,3 +8,6 @@
 7-ChartTest           折線圖練習程式，可以存圖檔，TXT檔</br>
 8-Thread			  Thread & Delegate Test</br>
 ![image](https://github.com/Wayne0980/CSharp/blob/master/8-thread.png)</br>
+9-IPCam			      Display the Image of IPCam</br>
+![image](https://github.com/Wayne0980/CSharp/blob/master/9-IPCAM.png)</br>
+
