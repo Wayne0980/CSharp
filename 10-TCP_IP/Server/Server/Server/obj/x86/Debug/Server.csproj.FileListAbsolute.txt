@@ -1,8 +1,0 @@
-C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Server\Server\Server\obj\x86\Debug\Server.Form1.resources
-C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Server\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
-C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Server\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
-C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Server\Server\Server\bin\Debug\Server.exe
-C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Server\Server\Server\bin\Debug\Server.pdb
-C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Server\Server\Server\obj\x86\Debug\Server.exe
-C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Server\Server\Server\obj\x86\Debug\Server.pdb
-C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Server\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
