@@ -1,0 +1,8 @@
+C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Client\Client\Client\bin\Debug\Client.exe
+C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Client\Client\Client\bin\Debug\Client.pdb
+C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Client\Client\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Client\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Client\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Client\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Client\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\Q\Documents\GitHub\CSharp\10-TCP_IP\Client\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
