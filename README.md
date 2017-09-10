@@ -13,3 +13,4 @@
 10-TcP(Server & Client)   Example of TCP/IP server and Client
 ![image](https://github.com/Wayne0980/CSharp/blob/master/10_TCP_IP.png)</br>
 11-Ftp(Server & Client)   Example of FTP server and Client (default dir:d:/ls)</br>
+![image](https://github.com/Wayne0980/CSharp/blob/master/FTP%20Server%26Client.png)</br>
