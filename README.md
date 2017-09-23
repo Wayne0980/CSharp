@@ -14,4 +14,5 @@
 ![image](https://github.com/Wayne0980/CSharp/blob/master/10_TCP_IP.png)</br>
 11-Ftp(Server & Client)   Example of FTP server and Client (default dir:d:/ls)</br>
 ![image](https://github.com/Wayne0980/CSharp/blob/master/FTP%20Server%26Client.png)</br>
-11-Email(Send)   		  Sending email by C#</br>
+12-Email(Send)   		  Sending email by C#</br>
+![image](https://github.com/Wayne0980/CSharp/blob/master/email.png)</br>
