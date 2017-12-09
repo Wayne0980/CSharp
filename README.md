@@ -16,3 +16,5 @@
 ![image](https://github.com/Wayne0980/CSharp/blob/master/FTP%20Server%26Client.png)</br>
 12-Email(Send)   		  Sending email by C#</br>
 ![image](https://github.com/Wayne0980/CSharp/blob/master/email.png)</br>
+13-Iot_Wifi_TCP_IP  	  Communication with IOT Device(include firmware code)</br>
+![image](https://github.com/Wayne0980/CSharp/blob/master/iot_wifi_tcpip.png)</br>
