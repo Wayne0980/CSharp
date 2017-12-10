@@ -18,3 +18,5 @@
 ![image](https://github.com/Wayne0980/CSharp/blob/master/email.png)</br>
 13-Iot_Wifi_TCP_IP  	  Communication with IOT Device(include firmware code)</br>
 ![image](https://github.com/Wayne0980/CSharp/blob/master/iot_wifi_tcpip.png)</br>
+14-Detect_Send_Mail  	  monitor user program and auto send mail to server when user buy or sold stock</br>
+![image](https://github.com/Wayne0980/CSharp/blob/master/printView.png)</br>
