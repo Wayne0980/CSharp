@@ -1,0 +1,7 @@
+C:\Users\wayne\Documents\GitHub\CSharp\26-GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\bin\Debug\GetImageFromWebCam_HTTP.exe
+C:\Users\wayne\Documents\GitHub\CSharp\26-GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\bin\Debug\GetImageFromWebCam_HTTP.pdb
+C:\Users\wayne\Documents\GitHub\CSharp\26-GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\obj\x86\Debug\GetImageFromWebCam_HTTP.Form1.resources
+C:\Users\wayne\Documents\GitHub\CSharp\26-GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\obj\x86\Debug\GetImageFromWebCam_HTTP.Properties.Resources.resources
+C:\Users\wayne\Documents\GitHub\CSharp\26-GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\obj\x86\Debug\GetImageFromWebCam_HTTP.csproj.GenerateResource.Cache
+C:\Users\wayne\Documents\GitHub\CSharp\26-GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\obj\x86\Debug\GetImageFromWebCam_HTTP.exe
+C:\Users\wayne\Documents\GitHub\CSharp\26-GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\GetImageFromWebCam_HTTP\obj\x86\Debug\GetImageFromWebCam_HTTP.pdb

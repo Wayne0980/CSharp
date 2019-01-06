@@ -1,0 +1,7 @@
+C:\Users\wayne\Documents\GitHub\CSharp\24-SendGMailwithAttachment\SendGMailwithAttachment\SendGMailwithAttachment\bin\Debug\SendGMailwithAttachment.exe
+C:\Users\wayne\Documents\GitHub\CSharp\24-SendGMailwithAttachment\SendGMailwithAttachment\SendGMailwithAttachment\bin\Debug\SendGMailwithAttachment.pdb
+C:\Users\wayne\Documents\GitHub\CSharp\24-SendGMailwithAttachment\SendGMailwithAttachment\SendGMailwithAttachment\obj\x86\Debug\SendGMailwithAttachment.Form1.resources
+C:\Users\wayne\Documents\GitHub\CSharp\24-SendGMailwithAttachment\SendGMailwithAttachment\SendGMailwithAttachment\obj\x86\Debug\SendGMailwithAttachment.Properties.Resources.resources
+C:\Users\wayne\Documents\GitHub\CSharp\24-SendGMailwithAttachment\SendGMailwithAttachment\SendGMailwithAttachment\obj\x86\Debug\SendGMailwithAttachment.csproj.GenerateResource.Cache
+C:\Users\wayne\Documents\GitHub\CSharp\24-SendGMailwithAttachment\SendGMailwithAttachment\SendGMailwithAttachment\obj\x86\Debug\SendGMailwithAttachment.exe
+C:\Users\wayne\Documents\GitHub\CSharp\24-SendGMailwithAttachment\SendGMailwithAttachment\SendGMailwithAttachment\obj\x86\Debug\SendGMailwithAttachment.pdb
